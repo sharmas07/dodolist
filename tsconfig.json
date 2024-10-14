@@ -4,6 +4,7 @@
     "paths": {
       "@/*": ["./src/*"]
     },
-    "strict": false
+    "strict": false,
+    "jsx": "react"
   }
 }
